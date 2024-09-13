@@ -1,0 +1,14 @@
+C:\Users\aitor\source\repos\ProgramasComplejos\LibreriaWeb\bin\Debug\net8.0\LibreriaWeb.exe
+C:\Users\aitor\source\repos\ProgramasComplejos\LibreriaWeb\bin\Debug\net8.0\LibreriaWeb.deps.json
+C:\Users\aitor\source\repos\ProgramasComplejos\LibreriaWeb\bin\Debug\net8.0\LibreriaWeb.runtimeconfig.json
+C:\Users\aitor\source\repos\ProgramasComplejos\LibreriaWeb\bin\Debug\net8.0\LibreriaWeb.dll
+C:\Users\aitor\source\repos\ProgramasComplejos\LibreriaWeb\bin\Debug\net8.0\LibreriaWeb.pdb
+C:\Users\aitor\source\repos\ProgramasComplejos\LibreriaWeb\obj\Debug\net8.0\LibreriaWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aitor\source\repos\ProgramasComplejos\LibreriaWeb\obj\Debug\net8.0\LibreriaWeb.AssemblyInfoInputs.cache
+C:\Users\aitor\source\repos\ProgramasComplejos\LibreriaWeb\obj\Debug\net8.0\LibreriaWeb.AssemblyInfo.cs
+C:\Users\aitor\source\repos\ProgramasComplejos\LibreriaWeb\obj\Debug\net8.0\LibreriaWeb.csproj.CoreCompileInputs.cache
+C:\Users\aitor\source\repos\ProgramasComplejos\LibreriaWeb\obj\Debug\net8.0\LibreriaWeb.dll
+C:\Users\aitor\source\repos\ProgramasComplejos\LibreriaWeb\obj\Debug\net8.0\refint\LibreriaWeb.dll
+C:\Users\aitor\source\repos\ProgramasComplejos\LibreriaWeb\obj\Debug\net8.0\LibreriaWeb.pdb
+C:\Users\aitor\source\repos\ProgramasComplejos\LibreriaWeb\obj\Debug\net8.0\LibreriaWeb.genruntimeconfig.cache
+C:\Users\aitor\source\repos\ProgramasComplejos\LibreriaWeb\obj\Debug\net8.0\ref\LibreriaWeb.dll
