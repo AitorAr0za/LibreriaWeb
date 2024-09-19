@@ -5,6 +5,7 @@ class Program
 {
     static void Main()
     {
+        int numeronuevo;
         List<IPedido> Carrito = new List<IPedido>();
 
         List<Novela> Novelas = new List<Novela>()
